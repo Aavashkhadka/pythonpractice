@@ -1,0 +1,29 @@
+#head1
+{
+    font: Calibri;
+    font-size: 50px;
+    color:blueviolet;
+
+}
+
+.container1
+{
+    background-color: aqua;
+    position: static;
+    border: 3px solid #73AD21;
+}
+
+.container2
+{
+
+    max-width=400px;
+      position: sticky;
+    border: 3px solid #d8ded1;
+}
+
+
+img {
+    width: 100%;
+    object-fit: cover;
+ 
+  }

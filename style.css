@@ -1,0 +1,18 @@
+#list
+{
+    font:Algerian, Calibri;
+    font-size:30px;
+    color:red;
+    background-color: #16349e;
+    height:70px;
+    width:200px;
+    padding:10px
+}
+
+.container
+{
+background-color: chartreuse;
+height:50px;
+width:500px;
+padding:50px
+}
